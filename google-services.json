@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812518883384",
+    "project_id": "vehicleinfo-19c8d",
+    "storage_bucket": "vehicleinfo-19c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812518883384:android:d0cf22ef6e6d7b8970a6cd",
+        "android_client_info": {
+          "package_name": "com.joydeepbhandary.vahaninforeminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812518883384-9tn4p3e7foqes7c5tsdgqsc0s854nsh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8LjfmJ4IV2FIdeRfSfJHOQH51pwUKIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812518883384-9tn4p3e7foqes7c5tsdgqsc0s854nsh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
